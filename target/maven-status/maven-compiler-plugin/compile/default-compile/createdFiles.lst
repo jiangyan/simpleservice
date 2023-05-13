@@ -1,0 +1,4 @@
+com/servision/SimpleServiceApplication.class
+com/servision/repository/UserRepository.class
+com/servision/model/User.class
+com/servision/controller/UserController.class
