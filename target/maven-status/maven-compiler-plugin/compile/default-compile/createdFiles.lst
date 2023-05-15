@@ -1,4 +1,15 @@
 com/servision/SimpleServiceApplication.class
-com/servision/repository/UserRepository.class
+com/servision/Utils/JwtTokenUtil.class
+com/servision/controller/LoginController.class
+com/servision/DTO/LoginRequest.class
+com/servision/repository/InternalUserRepository.class
+com/servision/service/UserDetailsServiceImpl.class
+com/servision/Utils/JwtAuthenticationEntryPoint.class
 com/servision/model/User.class
-com/servision/controller/UserController.class
+com/servision/Utils/JwtAuthenticationFilter.class
+com/servision/repository/UserRepository.class
+com/servision/model/InternalUser.class
+com/servision/config/MyWebConfig.class
+com/servision/controller/InternalUserController.class
+com/servision/Utils/JwtResponse.class
+com/servision/security/WebSecurityConfig.class
